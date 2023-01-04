@@ -5,6 +5,8 @@ Dutch cars registations data has many data quality issues which we correct here.
 For instance a tesla model S make can be stored in 5+ versions (handelsbenaming in dutch) - Tesla model S, model S , S70 etc... 
 When we are counting / reporting on makes / details, this gives inacuarate results, although some "error makes names" can be very exotic and appear in a very low quantities/number of rows. 
 
+Data improvement are applied to our customized RDW data (see below). You can apply the same fixes to yoor own data. Please consider sharing your fixes so we can improve data together and work as a community. 
+
 
 # RDW data issues with respect to time series analysis
 
