@@ -29,4 +29,17 @@ The data includes columns selection with low change probability.
 
 <img width="408" alt="image" src="https://user-images.githubusercontent.com/33482502/210547887-279f57be-b88a-4752-a234-d5e667c2f02d.png">
 
+# Kenteken data
+URL
+https://opendata.rdw.nl/resource/m9d7-ebf2.csv?$select=kenteken,voertuigsoort,merk,handelsbenaming,type,bruto_bpm,inrichting,aantal_zitplaatsen,massa_ledig_voertuig,massa_rijklaar,catalogusprijs,wam_verzekerd,maximale_constructiesnelheid,aantal_staanplaatsen,aantal_wielen,lengte,breedte,europese_voertuigcategorie,type_gasinstallatie,uitvoering,volgnummer_wijziging_eu_typegoedkeuring,vermogen_massarijklaar,wielbasis,export_indicator,taxi_indicator,datum_tenaamstelling_dt,datum_eerste_toelating_dt,datum_eerste_tenaamstelling_in_nederland_dt,hoogte_voertuig,zuinigheidsclassificatie,maximum_massa_trekken_ongeremd,aanhangwagen_autonoom_geremd,aanhangwagen_middenas_geremd,%20technische_max_massa_voertuig,maximum_massa_samenstelling&$limit=5000000&$where=datum_eerste_toelating>=20230901
+
+# Brandstof data
+URL
+https://opendata.rdw.nl/resource/8ys7-d773.csv?$select=kenteken,klasse_hybride_elektrisch_voertuig,brandstof_omschrijving,netto_max_vermogen_elektrisch,nettomaximumvermogen,emissie_co2_gecombineerd_wltp,co2_uitstoot_gecombineerd,co2_uitstoot_gewogen,emissiecode_omschrijving,brandstof_volgnummer,brandstofverbruik_gecombineerd,geluidsniveau_rijdend&$limit=15000000
+
+# Gebreken data 
+URL
+https://opendata.rdw.nl/resource/a34c-vvps.csv?$select=kenteken,gebrek_identificatie,aantal_gebreken_geconstateerd,meld_datum_door_keuringsinstantie_dt&$where=meld_datum_door_keuringsinstantie>=20230901&$limit=50000000
+
+
 
