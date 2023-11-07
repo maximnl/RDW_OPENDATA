@@ -48,3 +48,6 @@ URL
 https://opendata.rdw.nl/resource/a34c-vvps.csv?$select=kenteken,gebrek_identificatie,aantal_gebreken_geconstateerd,meld_datum_door_keuringsinstantie_dt&$where=meld_datum_door_keuringsinstantie>=20230901&$limit=50000000
 
 [RDW data quality issues](https://github.com/maximnl/RDW_OPENDATA/blob/main/rdw_fixes.md) 
+
+# Car brands
+(brands)[https://github.com/maximnl/RDW_OPENDATA/blob/main/carbrands.md]
