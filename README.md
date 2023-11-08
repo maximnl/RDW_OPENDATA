@@ -50,4 +50,4 @@ https://opendata.rdw.nl/resource/a34c-vvps.csv?$select=kenteken,gebrek_identific
 [RDW data quality issues](https://github.com/maximnl/RDW_OPENDATA/blob/main/rdw_fixes.md) 
 
 # Car brands
-(car brands)[https://github.com/maximnl/RDW_OPENDATA/blob/main/CAR_BRAND.csv)https://github.com/maximnl/RDW_OPENDATA/blob/main/CAR_BRAND.csv]
+[(car brands)[https://github.com/maximnl/RDW_OPENDATA/blob/main/CAR_BRAND.csv)https://github.com/maximnl/RDW_OPENDATA/blob/main/CAR_BRAND.csv]](https://github.com/maximnl/RDW_OPENDATA/blob/main/CAR_BRAND.csv)https://github.com/maximnl/RDW_OPENDATA/blob/main/CAR_BRAND.csv
